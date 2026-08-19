@@ -402,13 +402,13 @@ This visualization compares payment values across product categories.
 
 ---
 
-## 5. Seller Performance by State
+## 5. Business-Oriented Visualization
 
-This visualization examines seller distribution across Brazilian states and helps identify regional patterns in seller activity.
+Seller-state order volume provides a business-oriented view of regional performance and helps identify markets with higher levels of customer activity.
 
-![Seller Performance by State](./images/seller_state_distribution.png)
+![Seller State Order Volume](images/seller_state_order_volume.png)
 
-**Business Insight:** Regional differences in seller activity can help identify high-performing markets and areas where seller coverage or logistics support may need improvement.
+**Business Insight:** Regional differences in order volume can help identify high-demand markets and support decisions related to logistics, seller performance, and regional strategy.
 ---
 
 # 💡 Business Recommendations
