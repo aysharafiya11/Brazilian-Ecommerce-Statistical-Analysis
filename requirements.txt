@@ -3,7 +3,5 @@ numpy
 matplotlib
 seaborn
 scipy
-statsmodels
-scikit-learn
+scikit-posthocs
 jupyter
-openpyxl
