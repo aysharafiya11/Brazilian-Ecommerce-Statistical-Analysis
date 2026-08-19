@@ -504,25 +504,6 @@ Flexible payment options may help reduce purchase barriers, particularly for hig
 
 ---
 
-# 🖼️ Selected Visualizations
-
-The repository contains visualizations generated during the analysis.
-
-Examples include:
-
-- Review score distribution
-- Payment value distribution and boxplot
-- Freight value distribution
-- Delivery time vs review score
-- Seller-state distribution
-- Top product categories
-- Payment type analysis
-- Product weight analysis
-
-Visualizations are available in the [`images`](./images) directory.
-
----
-
 # 📁 Project Structure
 
 ```text
