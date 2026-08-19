@@ -48,6 +48,12 @@ The analysis also aims to identify statistically significant relationships and d
 
 ---
 
+## 📓 Project Notebook
+
+[View the Complete Statistical Analysis Notebook](notebook/Statistical_Analysis.ipynb)
+
+---
+
 # 📂 Dataset
 
 The project uses the **Brazilian E-Commerce Public Dataset by Olist**.
