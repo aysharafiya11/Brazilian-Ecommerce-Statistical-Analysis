@@ -530,4 +530,81 @@ Navigate to:
 
 `notebook/Statistical_Analysis.ipynb`
 
+Run the notebook cells sequentially to reproduce the analysis.
 
+---
+
+# 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+- Scikit-posthocs
+- Jupyter Notebook
+
+---
+
+# 📋 Key Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+- Python for Data Analysis
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Validation
+- Data Integration
+- Relational Dataset Merging
+- Exploratory Data Analysis
+- Descriptive Statistics
+- Data Visualization
+- Correlation Analysis
+- Hypothesis Testing
+- Non-parametric Statistical Testing
+- Kruskal-Wallis Test
+- Spearman Correlation
+- Dunn's Post-hoc Analysis
+- Bonferroni Correction
+- Statistical Interpretation
+- Business Insight Generation
+- Data-driven Recommendations
+
+---
+
+# 🏁 Final Conclusion
+
+This project demonstrates a complete analytical workflow using a real-world Brazilian e-commerce dataset.
+
+The analysis moves beyond simple visualization and descriptive summaries by applying statistical methods to evaluate whether important observed relationships and differences are statistically significant.
+
+The major findings highlight significant associations involving:
+
+- **Delivery performance and customer satisfaction**
+- **Payment value and installment behavior**
+- **Payment value and payment type**
+- **Payment value and product category**
+
+These findings were translated into recommendations covering:
+
+- Logistics
+- Customer satisfaction
+- Freight optimization
+- Seller performance
+- Regional strategy
+- Product categories
+- Payment behavior
+
+### 🔑 Key Takeaway
+
+> **Effective data analytics goes beyond finding patterns. The real value comes from converting those patterns into statistically supported insights and actionable business decisions.**
+
+---
+
+## 👤 Author
+
+**Aysha Rafiya**
+
+Data Analytics Portfolio Project
