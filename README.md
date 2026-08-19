@@ -358,6 +358,59 @@ The analysis provides statistical evidence that:
 
 ---
 
+# 🖼️ Key Visualizations
+
+The following visualizations highlight the major statistical and business findings from the analysis.
+
+## 1. Delivery Time vs Review Score
+
+This visualization illustrates the relationship between delivery time and customer review scores.
+
+![Delivery Time vs Review Score](./images/delivery_time_by_review_score.png)
+
+**Insight:** Longer delivery times are significantly associated with lower review scores.
+
+---
+
+## 2. Payment Value Distribution
+
+This visualization shows the distribution of payment values and highlights the variation and skewness in customer transaction values.
+
+![Payment Value Distribution](./images/payment_value_distribution.png)
+
+**Insight:** Payment values show a right-skewed distribution, with most transactions concentrated at lower values and a smaller number of high-value transactions.
+
+---
+
+## 3. Payment Type vs Payment Value
+
+This visualization compares payment values across different payment methods.
+
+![Payment Type vs Payment Value](./images/payment_value_by_payment_type.png)
+
+**Statistical Finding:** Payment values differ significantly across payment types based on the Kruskal-Wallis H test.
+
+---
+
+## 4. Product Category vs Payment Value
+
+This visualization compares payment values across product categories.
+
+![Product Category vs Payment Value](./images/payment_value_by_product_category.png)
+
+**Statistical Finding:** Payment values differ significantly across product categories based on the Kruskal-Wallis H test.
+
+---
+
+## 5. Seller Performance by State
+
+This visualization examines seller distribution across Brazilian states and helps identify regional patterns in seller activity.
+
+![Seller Performance by State](./images/seller_state_distribution.png)
+
+**Business Insight:** Regional differences in seller activity can help identify high-performing markets and areas where seller coverage or logistics support may need improvement.
+---
+
 # 💡 Business Recommendations
 
 The statistical findings were translated into practical business recommendations.
