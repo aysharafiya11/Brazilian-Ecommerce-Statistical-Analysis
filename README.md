@@ -97,36 +97,28 @@ The individual Olist datasets were integrated into a final analytical dataset.
 
 ```text
 Customers
-
-    ↓ customer_id
-
+    │
+    │ customer_id
+    ▼
 Orders
+    │
+    ├── order_id ───────────────► Payments
+    │
+    ├── order_id ───────────────► Reviews
+    │
+    └── order_id
+          │
+          ▼
+     Order Items
+          │
+          ├── product_id ──────► Products
+          │                         │
+          │                         │ product_category_name
+          │                         ▼
+          │                Product Category Translation
+          │
+          └── seller_id ────────► Sellers
 
-    ↓ order_id
-
-Order Items
-
-    ↓ product_id              ↓ seller_id
-
-Products                  Sellers
-
-    ↓ product_category_name
-
-Product Category Translation
-
-
-Orders
-
-    ↓ order_id
-
-Payments
-
-
-Orders
-
-    ↓ order_id
-
-Reviews
 ```
 
 The merge process was validated at multiple stages to identify:
